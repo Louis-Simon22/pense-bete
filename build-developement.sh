@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 set -e
 
-pelican content --autoreload & (cd output; browser-sync start --server --files "*")
+pelican content --autoreload & (cd docs; browser-sync start --server --files "*")
