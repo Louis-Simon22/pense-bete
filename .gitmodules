@@ -1,3 +1,6 @@
 [submodule "themes/blue-penguin"]
 	path = themes/blue-penguin
 	url = https://github.com/jody-frankowski/blue-penguin.git
+[submodule "themes/attila"]
+	path = themes/attila
+	url = https://github.com/arulrajnet/attila.git
