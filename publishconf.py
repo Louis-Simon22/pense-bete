@@ -8,3 +8,4 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://blog.louissimonmcnicoll.com'
+OUTPUT_PATH = 'docs' # Github pages' root

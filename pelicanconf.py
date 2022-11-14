@@ -8,7 +8,6 @@ SITESUBTITLE = u'Random thoughts from a random guy'
 SITEURL = ''
 
 PATH = 'content'
-OUTPUT_PATH = 'docs' # Github pages' root
 
 DEFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = '%d %b %Y'
