@@ -1,4 +1,6 @@
 #!/usr/bin/bash
 set -e
 
-pelican content --autoreload & (cd docs; browser-sync start --server --files "*")
+mkdir -p output
+cp -rf ./css ./output/css
+pelican content --autoreload & (cd output; browser-sync start --server --files "../*")

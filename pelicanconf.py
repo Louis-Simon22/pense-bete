@@ -71,7 +71,8 @@ PLUGIN_PATHS = [
   'pelican-plugins'
 ]
 
-THEME = 'attila'
+THEME = 'themes/attila'
 
 ### Theme specific settings
 
+CSS_OVERRIDE = ['css/theme_overrides.css']
