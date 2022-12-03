@@ -1,4 +1,4 @@
-Title: Where the lion's pelt does not reach
+Title: Where The Lion's Pelt Does Not Reach
 Date: 2022-11-12 16:39
 Category: Ancient History
 

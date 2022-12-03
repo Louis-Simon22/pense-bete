@@ -76,3 +76,5 @@ THEME = 'themes/attila'
 ### Theme specific settings
 
 CSS_OVERRIDE = ['css/theme_overrides.css']
+
+DISPLAY_PAGES_ON_MENU = False # This display categories instead of pages in the menu
