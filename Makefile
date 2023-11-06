@@ -17,3 +17,7 @@ publish:
 	rm -r $(PUBLISHDIR)/css || true
 	cp -rf ./css $(PUBLISHDIR)/css
 	pelican "$(INPUTDIR)" -s "$(PUBLISHCONF)"
+
+install-deps:
+	sudo apt install nodejs npm pelican
+	sudo npm install -g browser-sync

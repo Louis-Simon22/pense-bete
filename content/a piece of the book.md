@@ -1,4 +1,4 @@
-Title: A Piece Of The Book
+Title: A Piece of the Book
 Date: 2022-12-01 12:27
 Category: Short Stories
 

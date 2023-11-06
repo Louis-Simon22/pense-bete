@@ -1,4 +1,4 @@
-Title: Everybody Dresses The Same
+Title: Everybody Dresses the Same
 Date: 2023-01-09 21:53
 Category: Modern World
 

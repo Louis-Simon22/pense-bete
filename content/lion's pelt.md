@@ -6,9 +6,9 @@ I recently stumbled upon a quote from Plutarch's Parallel Lives that struck me.
 It has a few different translations:
 
 
-- Where the lion’s skin will not reach, you must patch it out with the fox’s
 - Where the lion's pelt does not reach must be covered by the fox's
-- That where the skin of the lion does not reach it has to be patched with the skin of the fox
+- Where the lion’s skin will not reach, you must patch it out with the fox’s
+- Where the skin of the lion does not reach it has to be patched with the skin of the fox
 
 
 The metaphor of the lion's skin has its origin in the Nemean lion, reputed impervious to any weapon. It was strangled to death by Hercules who would sometimes wear its pelt on his back. It often adorns his back on statues and reliefs representing the hero. It has a connotation for strength not only from its association with the hero himself, but also for the strength of the animal itself.
