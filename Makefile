@@ -19,5 +19,9 @@ publish:
 	pelican "$(INPUTDIR)" -s "$(PUBLISHCONF)"
 
 install-deps:
-	sudo apt install nodejs npm pelican
+	sudo snap install node --classic
+	uv tool install pelican[markdown]
 	sudo npm install -g browser-sync
+	# Attila theme is a submodule
+	git submodule init
+	git submodule update
